@@ -1,0 +1,368 @@
+Date and Time: 2024-11-21 15:40:34
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 89.42°F
+Humidity: 31%
+Wind Speed: 9.22 m/s
+
+Date and Time: 2024-11-21 15:56:39
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 89.42°F
+Humidity: 31%
+Wind Speed: 11.50 m/s
+
+Date and Time: 2024-11-21 15:58:22
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 89.42°F
+Humidity: 31%
+Wind Speed: 11.50 m/s
+
+Date and Time: 2024-11-21 17:08:56
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:09:03
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:09:31
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:09:39
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:09:58
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:10:14
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:10:21
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:10:32
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:12:28
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:12:40
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:12:47
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:14:39
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:14:46
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:16:39
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:20:44
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:23:58
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:24:12
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:24:21
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:25:45
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:25:49
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 17:25:53
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 85.82°F
+Humidity: 42%
+Wind Speed: 13.80 m/s
+
+Date and Time: 2024-11-21 18:30:51
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 82.22°F
+Humidity: 47%
+Wind Speed: 9.22 m/s
+
+Date and Time: 2024-11-21 18:34:50
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 82.22°F
+Humidity: 47%
+Wind Speed: 8.05 m/s
+
+Date and Time: 2024-11-21 18:34:55
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 82.22°F
+Humidity: 47%
+Wind Speed: 8.05 m/s
+
+Date and Time: 2024-11-21 18:57:54
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 82.22°F
+Humidity: 47%
+Wind Speed: 8.05 m/s
+
+Date and Time: 2024-11-21 18:57:57
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 82.22°F
+Humidity: 47%
+Wind Speed: 8.05 m/s
+
+Date and Time: 2024-11-21 23:02:51
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 75.02°F
+Humidity: 69%
+Wind Speed: 3.44 m/s
+
+Date and Time: 2024-11-21 23:05:09
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 75.02°F
+Humidity: 69%
+Wind Speed: 3.44 m/s
+
+Date and Time: 2024-11-21 23:05:14
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 75.02°F
+Humidity: 69%
+Wind Speed: 3.44 m/s
+
+Date and Time: 2024-11-21 23:05:17
+Weather Information:
+City: Karachi
+Weather Description: clear sky
+Temperature: 75.02°F
+Humidity: 69%
+Wind Speed: 3.44 m/s
+
+Date and Time: 2024-11-22 19:43:08
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 57%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 19:43:13
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 57%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 19:44:26
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 57%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 19:44:29
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 57%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 20:51:56
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 61%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 20:51:59
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 61%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 20:52:03
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 61%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 20:52:06
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 61%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 20:52:10
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 61%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 20:52:13
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 61%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 20:52:17
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 61%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 20:52:20
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 61%
+Wind Speed: 4.61 m/s
+
+Date and Time: 2024-11-22 20:52:24
+Weather Information:
+City: Karachi
+Weather Description: few clouds
+Temperature: 78.62°F
+Humidity: 61%
+Wind Speed: 4.61 m/s
+
