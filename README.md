@@ -6,5 +6,5 @@ Features Data Retrieval: Interact with a free API to retrieve real-time environm
 C compiler (e.g., GCC) Linux operating system
 
 
-Use a cron command to schedule the script to run at a specific time each day, or simply execute `fetching.sh` directly if scheduling is not required.
+Use a cron command on your terminal to schedule the script to run at a specific time each day, or simply execute `fetching.sh` on terminal directly if scheduling is not required.
 
